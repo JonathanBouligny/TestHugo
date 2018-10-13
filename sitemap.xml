@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jonathanbouligny.github.io/categories/</loc>
+    <loc>https://jonathanbouligny.github.io/TestHugo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jonathanbouligny.github.io/</loc>
+    <loc>https://jonathanbouligny.github.io/TestHugo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jonathanbouligny.github.io/tags/</loc>
+    <loc>https://jonathanbouligny.github.io/TestHugo/tags/</loc>
     <priority>0</priority>
   </url>
   
